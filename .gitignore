@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+config.json
+src/util/token.txt
 
 ### Eclipse ###
 .apt_generated
@@ -36,3 +38,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
